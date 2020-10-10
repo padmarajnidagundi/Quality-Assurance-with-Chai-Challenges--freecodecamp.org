@@ -432,6 +432,5 @@ test('#isString, #isNotString', function() {
 
 /** 
  * Good Job, You are done here !!! 
- *  Please go to the file "2_functional_tests.js" ... My link https://repl.it/@PadmarajNidagun/boilerplate-mochachai#tests/1_unit-tests.js
- **/
+ *  Please go to the file "2_functional_tests.js" ... 
  **/
